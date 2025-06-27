@@ -1,0 +1,128 @@
+[
+  {
+    "text": "The quick brown fox jumps over the lazy dog.",
+    "spans": [
+      {"start": 16, "end": 19, "label": "ANIMAL"},
+      {"start": 40, "end": 43, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "A sly fox and a sleepy dog.",
+    "spans": [
+      {"start": 6, "end": 9, "label": "ANIMAL"},
+      {"start": 25, "end": 28, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "Cats and dogs are common pets.",
+    "spans": [
+      {"start": 0, "end": 4, "label": "ANIMAL"},
+      {"start": 9, "end": 13, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "The tiger prowled through the jungle silently.",
+    "spans": [
+      {"start": 4, "end": 9, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "Elephants are the largest land animals.",
+    "spans": [
+      {"start": 0, "end": 9, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "She saw a kangaroo hopping across the field.",
+    "spans": [
+      {"start": 10, "end": 18, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "Owls are known for their silent flight.",
+    "spans": [
+      {"start": 0, "end": 4, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "A lion and a cheetah rested in the shade.",
+    "spans": [
+      {"start": 2, "end": 6, "label": "ANIMAL"},
+      {"start": 13, "end": 20, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "Whales can communicate across vast distances.",
+    "spans": [
+      {"start": 0, "end": 6, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "Bears hibernate during the winter.",
+    "spans": [
+      {"start": 0, "end": 5, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "The garden was filled with butterflies and bees.",
+    "spans": [
+      {"start": 27, "end": 38, "label": "ANIMAL"},
+      {"start": 43, "end": 47, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "Zebras galloped across the African plains.",
+    "spans": [
+      {"start": 0, "end": 6, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "He rescued a stray kitten from the alley.",
+    "spans": [
+      {"start": 17, "end": 23, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "Monkeys are very intelligent animals.",
+    "spans": [
+      {"start": 0, "end": 7, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "A flock of geese flew overhead.",
+    "spans": [
+      {"start": 10, "end": 15, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "The rabbit darted into the bushes.",
+    "spans": [
+      {"start": 4, "end": 10, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "Snakes slither silently through the grass.",
+    "spans": [
+      {"start": 0, "end": 6, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "The parrot mimicked every word he said.",
+    "spans": [
+      {"start": 4, "end": 10, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "Deer are often seen in the early morning.",
+    "spans": [
+      {"start": 0, "end": 4, "label": "ANIMAL"}
+    ]
+  },
+  {
+    "text": "Penguins waddle amusingly on the ice.",
+    "spans": [
+      {"start": 0, "end": 8, "label": "ANIMAL"}
+    ]
+  }
+]
+

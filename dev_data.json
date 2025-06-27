@@ -1,0 +1,10 @@
+[
+  {
+    "text": "A sly fox and a sleepy dog.",
+    "spans": [
+      {"start": 2, "end": 9, "label": "ANIMAL"},
+      {"start": 20, "end": 29, "label": "ANIMAL"}
+    ]
+  }
+]
+
